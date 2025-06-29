@@ -24,6 +24,7 @@ Requirement Analysis plays a key role in ensuring project success by:
 
 ### Types of Requirements
 
+
 - **Functional Requirements**: What the system should do (e.g., user authentication, data processing).  
 - **Non-Functional Requirements**: How the system should perform (e.g., performance, security, usability).
 
