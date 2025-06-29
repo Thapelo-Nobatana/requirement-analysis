@@ -14,12 +14,13 @@ Requirement Analysis plays a key role in ensuring project success by:
 - **Improving Communication**: It acts as a common reference point between stakeholders, developers, designers, and testers.
 - **Enabling Better Planning**: Accurate requirements support effective resource allocation, scheduling, and budgeting.
 
-### Key Activities in Requirement Analysis
+## Key Activities in Requirement Analysis
 
-1. **Requirement Elicitation** – Engaging with stakeholders to extract their needs through interviews, surveys, workshops, etc.  
-2. **Requirement Documentation** – Recording the gathered requirements clearly in formats like Software Requirements Specification (SRS) documents.  
-3. **Requirement Validation** – Ensuring the documented requirements accurately reflect stakeholder needs and are feasible.  
-4. **Requirement Management** – Handling changes in requirements over the project’s life, ensuring traceability and consistency.
+- **Requirement Gathering**: Collecting information from all stakeholders to understand their needs, expectations, and constraints.
+- **Requirement Elicitation**: Using techniques like interviews, questionnaires, user observation, and workshops to draw out the actual requirements from stakeholders.
+- **Requirement Documentation**: Clearly recording the requirements in a structured format such as a Software Requirements Specification (SRS) document for future reference.
+- **Requirement Analysis and Modeling**: Analyzing the gathered requirements to resolve conflicts, identify dependencies, and model them using tools like flowcharts, data flow diagrams, or use case diagrams.
+- **Requirement Validation**: Ensuring that the documented requirements are complete, clear, feasible, and aligned with stakeholder needs before proceeding to the design phase.
 
 ### Types of Requirements
 
