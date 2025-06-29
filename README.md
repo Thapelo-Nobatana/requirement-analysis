@@ -28,3 +28,17 @@ Requirement Analysis plays a key role in ensuring project success by:
 - **Functional Requirements**: What the system should do (e.g., user authentication, data processing).  
 - **Non-Functional Requirements**: How the system should perform (e.g., performance, security, usability).
 
+## Use Case Diagrams
+Use Case Diagrams are a type of behavioral diagram in UML (Unified Modeling Language) that visually represent the interactions between users (actors) and a system. They help to capture the functional requirements of a system by showing the different ways users can interact with it through various use cases.
+
+### Benefits of Use Case Diagrams
+
+- Provide a clear, visual overview of system functionality.
+
+- Help stakeholders and developers understand system requirements.
+
+- Facilitate communication between technical and non-technical team members.
+
+- Serve as a foundation for creating detailed test cases and design specifications.
+
+![Use Case Diagram](image/alx-booking-uc.png)
