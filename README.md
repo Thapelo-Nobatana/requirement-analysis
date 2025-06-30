@@ -40,4 +40,8 @@ Use Case Diagrams are a type of behavioral diagram in UML (Unified Modeling Lang
 - Facilitate communication between technical and non-technical team members.
 
 - Serve as a foundation for creating detailed test cases and design specifications.
-(Image/alx-booking-uc.png)
+
+### Booking System Use Case Diagram
+
+![Use Case Diagram](alx-booking-uc.png)
+
